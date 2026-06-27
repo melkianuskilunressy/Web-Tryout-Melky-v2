@@ -64,45 +64,20 @@ function finishQuiz(){
     <button onclick="location.reload()">Ulangi</button>`;
 }
 
-showHome();
+renderQuestion();
 
 
 function showHome(){
 document.getElementById("quiz-container").innerHTML=`
 <div class="text-center py-5">
-<h2>SELAMAT DATANG</h2>
+<h2>Selamat Datang</h2>
 <p>Jumlah Soal : <b>${quizData.length}</b></p>
 <p>Waktu : <b>120 Menit</b></p>
-<button class="btn btn-primary btn-lg" onclick="startQuiz()">GAS</button>
+<button class="btn btn-primary btn-lg" onclick="startQuiz()">Mulai Tryout</button>
 </div>`;
 }
 function startQuiz(){
 document.getElementById("timer").style.display="block";
 if(typeof startTimer==='function') startTimer();
 renderQuestion();
-}
-
-let timeLeft = 120 * 60; // 120 menit
-
-function startTimer() {
-
-    const timer = document.getElementById("timer");
-
-    const interval = setInterval(function () {
-
-        let minutes = Math.floor(timeLeft / 60);
-        let seconds = timeLeft % 60;
-
-        timer.innerHTML =
-            `⏰ ${minutes.toString().padStart(2,'0')}:${seconds.toString().padStart(2,'0')}`;
-
-        timeLeft--;
-
-        if (timeLeft < 0) {
-            clearInterval(interval);
-            finishQuiz();
-        }
-
-    }, 1000);
-
 }

@@ -1,12 +1,12 @@
 
-body {font-family: 'Times New Roman', Georgia, 'Times New Roman', Times, serif, serif, 'Times New Roman', 'Times New Roman', Times, serif, serif; background:#f4f4f4; margin:0; padding:20px;}
-.container {max-width:800px; margin:auto; background:rgb(175, 200, 247); padding:20px; border-radius:10px;}
-.option {display:block; margin:10px 0; padding:10px; border:1px solid #ffffff; border-radius:8px;}
+body {font-family: Arial, sans-serif; background:#f4f4f4; margin:0; padding:20px;}
+.container {max-width:800px; margin:auto; background:white; padding:20px; border-radius:10px;}
+.option {display:block; margin:10px 0; padding:10px; border:1px solid #ccc; border-radius:8px;}
 button {padding:10px 20px; margin:10px 5px; cursor:pointer;}
-.review {border-top:1px solid #b60d0d; margin-top:15px; padding-top:15px;}
+.review {border-top:1px solid #ddd; margin-top:15px; padding-top:15px;}
 
 
-body{background:#832f2f;font-family:Arial,sans-serif}
+body{background:#f5f5f5;font-family:Arial,sans-serif}
 .card{border-radius:16px}
 .option{display:block;border:1px solid #ddd;border-radius:10px;padding:12px;margin:10px 0;cursor:pointer}
 .option:hover{background:#f8f9fa}
@@ -14,7 +14,7 @@ button{margin:5px}
 
 
 .btn-primary{
-background:#0379f0 !important;
+background:#1565C0 !important;
 border-color:#1565C0 !important;
 }
 .btn-primary:hover{

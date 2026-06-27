@@ -1,1300 +1,1102 @@
 const questions = [
   {
-    "question": "Semua yang disebutkan di bawah ini adalah hakikat dari persekutuan, kecuali",
+    "question": "Sebuah tanaman diletakkan di tempat gelap selama 48 jam, kemudian salah satu daunnya ditutup aluminium foil dan tanaman dipindahkan ke tempat terang selama 6 jam. Setelah dilakukan uji lugol, bagian daun yang terbuka berubah menjadi biru kehitaman, sedangkan bagian yang tertutup tidak mengalami perubahan warna. Kesimpulan yang tepat adalah ....",
     "options": [
-      "Memperlengkapi",
-      "menopang",
-      "meneguhkan",
-      "memusuhi"
+      "Cahaya diperlukan untuk respirasi.",
+      "Cahaya diperlukan dalam pembentukan amilum melalui fotosintesis.",
+      "Amilum dihasilkan saat respirasi berlangsung.",
+      "Klorofil hanya terdapat pada bagian daun yang terbuka."
     ],
-    "answer": 3,
-    "explanation": "Pembahasan belum tersedia."
+    "answer": 1,
+    "explanation": ""
   },
   {
-    "question": "Jemaat Gereja Protestan Maluku dalam penyelenggaraan pelayanan, di pimpin oleh",
+    "question": "Sebanyak 0,2 mol NaOH dilarutkan hingga volumenya menjadi 500 mL. Konsentrasi larutan tersebut adalah ....",
     "options": [
-      "Majelis Jemaat",
-      "MPH Sinode",
-      "MPK",
-      "AMGPM"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Dibawah ini adalah Tujuan Pola Organsiasi GPM, kecuali",
-    "options": [
-      "Mengatur organisasi pelayanan GPM",
-      "Mengendalikan pelaksanaan pelayanan gereja di setiap jenjang",
-      "Mengarahkan dan memberi pedoman tentang tugas pokok dan fungsi setiap unsur organisasi gereja",
-      "Mendorong paham radikalisme untuk kepentingan gereja"
-    ],
-    "answer": 3,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Pangkat yang diberikan kepada Pegawai Organik GPM Pendeta/Penginjil yang memenuhi syarat-syarat yang telah ditentukan tanpa terikat pada tugas kepemimpinan struktural disebu?",
-    "options": [
-      "Kenaikan Pangkat Struktural",
-      "Kenaikan Pangkat Reguler",
-      "Kenaikan pangkat Luar biasa",
-      "Pangkat Jabatan strategis"
-    ],
-    "answer": 3,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Ada berapa alinea pada pembukaan Tata Gereja GPM?",
-    "options": [
-      "12",
-      "17",
-      "13",
-      "8"
+      "0,1 M",
+      "0,2 M",
+      "0,4 M",
+      "0,5 M"
     ],
     "answer": 2,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Dimanakah letak Kewibawaan Alkitab?",
+    "question": "Sebuah benda bermassa 4 kg mengalami percepatan sebesar 3 m/s². Besar gaya yang bekerja pada benda tersebut adalah ....",
     "options": [
-      "Terletak Pada Allah",
-      "Terletak Pada Institusi GPM",
-      "Terletak pada kerajaan Surga",
-      "Terletak Pada Iman"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Apa makna teologi-eklesiologi dari sentralisasi Visi dan Misi GPM dalam dokumen PIP-RIPP dan Renstra bagi jemaat, klasis dan sinode",
-    "options": [
-      "Sebagai acuan dalam kekristenan",
-      "Sebagai satu tubuh kristus",
-      "sebagai pedoman beriman",
-      "sebagai ideologi dalam beragama"
+      "7 N",
+      "12 N",
+      "15 N",
+      "18 N"
     ],
     "answer": 1,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Pada Bab dan Pasal berapakah dalam Peraturan Pokok tentang Persekutuan yang menjelaskan tentang SMTPI dan Katekisasi ?",
+    "question": "Perhatikan rantai makanan berikut.    Rumput → Belalang → Katak → Ular → Elang.  Jika populasi ular menurun drastis akibat perburuan, dampak yang paling mungkin terjadi adalah ....",
     "options": [
-      "Bab VIII pasal 23 dan 20",
-      "Bab IV pasal 22",
-      "Bab VIII pasal 21 Dan 22",
-      "Bab II pasal 8"
+      "Populasi katak menurun dan belalang meningkat",
+      "Populasi katak meningkat sehingga populasi belalang menurun.",
+      "Populasi rumput menurun karena belalang berkurang.",
+      "Populasi elang meningkat karena makanan melimpah."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Suatu atom memiliki nomor atom 17. Konfigurasi elektron atom tersebut adalah ....",
+    "options": [
+      "2, 8 dan 5",
+      "2, 8 dan 7",
+      "2, 5 dan 9",
+      "3 dan 6"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Sebuah mobil bergerak dengan kecepatan awal 10 m/s kemudian dipercepat secara tetap hingga kecepatannya menjadi 22 m/s dalam waktu 6 sekon. Besar percepatannya adalah ....",
+    "options": [
+      "1 m/s²",
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Enzim bekerja paling efektif pada kondisi tertentu. Jika suhu lingkungan meningkat jauh di atas suhu optimum, maka aktivitas enzim akan menurun karena ....",
+    "options": [
+      "konsentrasi substrat bertambah",
+      "enzim mengalami denaturasi sehingga bentuk sisi aktif berubah",
+      "jumlah enzim bertambah",
+      "pH menjadi netral"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Nilai pH larutan dengan konsentrasi ion H⁺ sebesar 10−410^{-4}10−4 M adalah ....",
+    "options": [
+      2,
+      3,
+      4,
+      5
     ],
     "answer": 2,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Kumpulan orang-orang percaya kepada Yesus Kristus untuk mengambil bagian dalam misi Allah dalam Yesus Kristus melalui Roh Kudus untuk mempersaksikan karya keselamatan Allah demi pembaruan dan demi keselamatan dunia. Pernyataan ini merupakan pengertian dari",
+    "question": "Sebuah lampu memiliki hambatan 24 Ω dan dihubungkan dengan sumber tegangan 12 V. Arus listrik yang mengalir sebesar ....",
     "options": [
-      "Masyarakat",
-      "persekutuan",
-      "Bangsa Israel",
-      "Orang yahudi"
+      "0,25 A",
+      "0,5 A",
+      "1A",
+      "2A"
     ],
     "answer": 1,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Persekutuan orang orang percaya kepada Yesus Kristus, pada suatu tempat dan lingkungan secara territorial dan transteritorial tertentu dalam wilayah pelayanan GPM, disebut",
+    "question": "Pada sistem peredaran darah manusia, katup jantung berfungsi untuk ....",
     "options": [
-      "jemaat",
-      "Jamaah haji",
-      "gereja",
-      "masyarakat kristen"
+      "meningkatkan tekanan darah",
+      "mempercepat denyut jantung",
+      "mencegah aliran balik darah",
+      "menghasilkan sel darah merah"
     ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
+    "answer": 2,
+    "explanation": ""
   },
   {
-    "question": "Menurut Peraturan Organik GPM, Pola Organisasi adalah",
+    "question": "2H₂(g) + O₂(g) → 2H₂O(l)   Jika tersedia 4 mol H₂ dan 1 mol O₂, pereaksi pembatas pada reaksi tersebut adalah ....",
     "options": [
-      "sistem untuk mengontrol pola hidup radikal",
-      "sistem yang dianut umat kristen untuk mecapai keselamatan",
-      "suatu sistem untuk mengatur tatanan jemaat",
-      "Suatu sistem yang mengatur bagian-bagian dalam suatu persekutuan/organisasi untuk mencapai tujuan bersama"
+      "H₂",
+      "O₂",
+      "H₂O",
+      "H₂ dan O₂ habis bersamaan"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Sebuah benda dilempar vertikal ke atas dengan kecepatan awal 20 m/s. Jika percepatan gravitasi 10 m/s², waktu yang diperlukan benda untuk mencapai titik tertinggi adalah ....",
+    "options": [
+      "1S",
+      "2S",
+      "3S",
+      "4S"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Seseorang mengalami kerusakan pada alveolus paru-paru akibat kebiasaan merokok dalam waktu lama. Dampak yang paling mungkin terjadi adalah ....",
+    "options": [
+      "Volume darah meningkat.",
+      "Penyerapan oksigen ke dalam darah berkurang.",
+      "Denyut jantung menurun.",
+      "Produksi sel darah merah berhenti."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Larutan berikut yang merupakan elektrolit kuat adalah ....",
+    "options": [
+      "Larutan gula",
+      "Larutan urea",
+      "Etanol",
+      "NaCl"
     ],
     "answer": 3,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Aksesoris Toga yakni Bef berwarna putih yang berbentuk “T”, dimaknai sebagai Theos merupakan symbol Allah Bapa dan ekor ikan yang dimaknai Ichtus, merupakan symbol :",
+    "question": "Usaha sebesar 120 J dilakukan untuk memindahkan benda sejauh 8 meter searah gaya. Besar gaya yang bekerja adalah ....",
     "options": [
-      "Yesus kristus",
-      "Allah",
-      "Yohanes",
-      "Martin Luther"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Apakah sidi yang dilakukan di gereja yang tidak se-azas dengan GPM dapat diterima?",
-    "options": [
-      "Tidak dapat diterima",
-      "ya, dapat diterima",
-      "perlu dievaluasi karena sama sama kristen",
-      "ya apabila disetujui oleh pendeta"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Untuk mengetahui kinerja Pegawai Organik GPM dalam melaksanakan tugas  yang dipercayakan  dalam rangka pembangunan gereja, maka patutlah dilaksanakan evaluasi kinerja pelayanan pegawai organik. Yang bertindak sebagai pelaksana penilai pimpinan klasis adalah?",
-    "options": [
-      "MPH Sinode",
-      "MPK",
-      "majelis jemaat",
-      "Ketua majelis Jemaat"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "GPM dalam persekutuan dengan Gereja Tuhan yang kudus, am dan rasuli di segala abad dan tempat, menerima dan mengakui pengakuan  berikut ini,kecuali:",
-    "options": [
-      "bremen",
-      "Lutheran",
-      "calvinis",
-      "yahudi"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Berapa Persenkah Pembiayaan peyelenggaraan SMTPI dan Katekisasi  untuk Lingkup Lingkup Jemaat ?",
-    "options": [
-      "12% dari total belanja murni yang dimuat dalam anggaran pendapatan belanja gereja ",
-      "50% dari total pendapatan klasis",
-      "10% dari total belanja murni yang dimuat dalam anggaran pendapatan belanja gereja di jemaat.",
-      "25% dari total pendapatan jemaat"
+      "10 N",
+      "12N",
+      "15N",
+      "18N"
     ],
     "answer": 2,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Penyusunan PIP-RIPP GPM tahun 2025-2035 berfungsi untuk, kecuali:",
+    "question": "Pada proses fotosintesis, oksigen yang dilepaskan tumbuhan berasal dari ....",
     "options": [
-      "menganalisis kondisi internal dan eksternal GPM",
-      "menetapkan visi misi, tujuan dan sasaran strategis",
-      "mengembangkan dan menerapkan rencana strategis untuk mencapai visi, misi, tujuan dan sasaran strategis",
-      "mengevaluasi kebijakan pemerintah dan menerapkannya pada visi misi GPM"
+      "Karbon dioksida",
+      "Glukosa",
+      "Air",
+      "Klorofil"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Suatu unsur memiliki konfigurasi elektron 2,8,8,1.   Golongan unsur tersebut adalah ....",
+    "options": [
+      "IA",
+      "IIA",
+      "IIIA",
+      "VIIA"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Dua hambatan masing-masing 4 Ω dan 6 Ω disusun seri. Hambatan penggantinya adalah ....",
+    "options": [
+      "2,4 Ω",
+      "5 Ω",
+      "8 Ω",
+      "10 Ω"
     ],
     "answer": 3,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Berapa jumlah katagori katekisasi Khusus GPM ?",
+    "question": "Persilangan tanaman kacang berbiji bulat (B) dominan terhadap keriput (b).   Genotipe induk adalah Bb × Bb.   Peluang diperoleh keturunan berbiji keriput adalah ....",
     "options": [
-      "2 kategori",
-      "12 kategori",
-      "6 kategori",
-      "9 kategori"
-    ],
-    "answer": 2,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Dekade Pertama Pemberlakuan PIP-RIPP bagi GPM dimulai sejak tahun?",
-    "options": [
-      "1983-1995",
-      "2000-2010",
-      "1980-1990",
-      "2003-2013"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Berdasarkan Kurikulum  Pendidikan Formal Gereja, berapakah jumlah minggu efektif SMTPI pada semester Ganjil ?",
-    "options": [
-      "16 X Tatap Muka, Minggu efektif Mei-oktober",
-      "10 X Tatap Muka, Minggu efektif Mei-oktober",
-      "20X Tatap Muka, Minggu efektif Mei-November",
-      "25X Tatap Muka, Minggu efektif Mei-agustus"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Wujud persekutuan seperti dibawah ini, kecuali ….",
-    "options": [
-      "kebaktian",
-      "Puasa daging",
-      "sakramen dan pendidikan",
-      "pelayanan dan pembinaan"
+      0,
+      0.25,
+      0.5,
+      0.75
     ],
     "answer": 1,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Di bawah ini adalah ciri jemaat GPM, kecuali ….",
+    "question": "Sebuah benda bermassa 2 kg berada pada ketinggian 15 meter dari permukaan tanah. Jika percepatan gravitasi 10 m/s², energi potensial benda tersebut adalah ....",
     "options": [
-      "teritorial",
-      "kategorial",
-      "khusus",
-      "transteritorial"
+      "150 J",
+      "200J",
+      "250J",
+      "300J"
     ],
     "answer": 3,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Perangkat Kepengurusan Majelis Jemaat adalah :",
+    "question": "Suatu larutan memiliki pH = 3. Konsentrasi ion H⁺ dalam larutan tersebut adalah ....",
     "options": [
-      "PHMJ,Seksi seksi pelayanan, badan bada lain",
-      "MPK",
-      "MPH",
-      "MPL"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Seorang Pegawai organik GPM tidak dapat ditanggalkan kepegawaian gerejawinya apabila :",
-    "options": [
-      "menjadi seorang gubernur",
-      "menjadi hakim di mahkama agung",
-      "Memilih untuk bekerja pada Lembaga lain diluar GPM misalnya sebagai ASN, Karyawan swasta atau bekerja pada gereja lain.",
-      "menjadi DPR RI"
+      "10−1 M",
+      "10−2 M",
+      "10−3 M",
+      4
     ],
     "answer": 2,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Puncak liturgi protestan dalam rumpun Tata Kebaktian yaitu?",
+    "question": "Sebuah benda bergerak lurus beraturan dengan kecepatan 18 km/jam selama 10 menit. Jarak yang ditempuh benda tersebut adalah ....",
     "options": [
-      "persembahan syukur",
-      "Pelayanan firman",
-      "doa syafaat",
-      "votum dan salam"
-    ],
-    "answer": 1,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Hubungan dan kerjasama oikumenis yang dilakukan GPM itu tidak dilakukan secara pasif akan perlu memperhatikan sifat-sifat berikut, kecuali",
-    "options": [
-      "idealis",
-      "dinamis dan kritis",
-      "kreatif",
-      "realistis"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Apakah diperbolehkan mengikuti perjamuan tanpa perhadliran?",
-    "options": [
-      "diperbolehkan apabila membawa surat sidi",
-      "Diperbolehkan dan tidak ada syarat apapun",
-      "tidak bisa ",
-      "Jika tidak mengikuti perhaliran tetapi rindu dan merasa layak mengikuti perjamuan kudus, harus melapor kepada Majelis Jemaat."
+      "300M",
+      "500M",
+      "1.000M",
+      "3.000M"
     ],
     "answer": 3,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Pendekatan atau metode yang digunakan dalam penyusunan PIP-RIPP Dasawarsa V 2025-2035 adalah",
+    "question": "Sebuah pegas memiliki konstanta pegas 200 N/m. Jika pegas ditarik sejauh 10 cm, besar gaya yang diperlukan adalah ....",
     "options": [
-      "Vamos",
-      "kuantitatif",
-      "Spocha",
-      "spectrum"
+      "5N ",
+      "10N",
+      "20N",
+      "25N"
     ],
     "answer": 2,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Sesuai Managemen PFG, pada kelompok sasaran bina SMTPI, anak usia 12 tahun itu termasuk anak pada jenjang apa ?",
+    "question": "Indonesia merupakan salah satu negara dengan tingkat keanekaragaman hayati tertinggi di dunia. Kekayaan flora dan fauna tersebut menjadi modal penting dalam pengembangan penelitian, pendidikan, maupun sektor pariwisata. Namun, eksploitasi sumber daya alam yang tidak terkendali dapat mengancam kelestarian berbagai spesies endemik. Oleh karena itu, upaya konservasi harus dilakukan secara berkelanjutan agar manfaat keanekaragaman hayati tetap dapat dirasakan oleh generasi mendatang.  Gagasan utama paragraf tersebut adalah ....",
     "options": [
-      "anak tanggung",
-      "remaja",
-      "indria",
-      "batita"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Apa hubungan RPPJ di lingkup jemaat dan program pelayanan tahunan",
-    "options": [
-      "Program pelayanan tahunan merupakan implementasi dari RPPJ",
-      "program dibuat berdasarkan keputusan majelis jemaat",
-      "program dibuat berdasarkan surat edaran sinode",
-      "tidak ada hubungan antara renstra dan program pelayanan tahunan"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Di bawah ini adalah indikator kegagalan gereja dalam menjalankan misinya, kecuali:",
-    "options": [
-      "Taat dan setia kepada kehendak tuhan",
-      "taat kepada aturan gereja",
-      "setia kepada majelis jemaat",
-      "taat pada norma agama yang berlaku"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "GPM memenuhi dan melaksanakan Amanat Pelayanannya dengan cara dan bentuk dibawah ini, kecuali:",
-    "options": [
-      " Pemberdayaan (pengembangan) ekonomi umat",
-      "transformasi digital",
-      "Pekabaran injil di dalam dan keluar",
-      " SMTPI dan Katekisasi"
+      "Indonesia memiliki banyak objek wisata alam.",
+      "Keanekaragaman hayati Indonesia perlu dilestarikan melalui upaya konservasi.",
+      "Penelitian tentang flora dan fauna harus terus ditingkatkan.",
+      "Eksploitasi sumber daya alam memberikan keuntungan ekonomi."
     ],
     "answer": 1,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Yang tidak termasuk simbol-simbol yang digunakan pada stola GPM yaitu?",
+    "question": "Penggunaan kendaraan listrik diperkirakan akan terus meningkat seiring berkembangnya teknologi baterai yang semakin efisien.   Makna kata efisien pada kalimat tersebut adalah ....",
     "options": [
-      "ikan",
-      "salib",
-      "bintang segi enam",
-      "bulan"
+      "Menghasilkan manfaat maksimal dengan penggunaan sumber daya yang minimal.",
+      "Memiliki ukuran yang lebih kecil dibandingkan sebelumnya.",
+      "Menggunakan energi dalam jumlah yang lebih besar.",
+      "Memiliki harga yang lebih murah."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Perhatikan kalimat berikut!  Para siswa-siswa diminta untuk segera memasuki ruang ujian.  Perbaikan kalimat yang paling tepat adalah ....",
+    "options": [
+      "Para siswa diminta segera memasuki ruang ujian.",
+      "Para siswa-siswa diminta segera memasuki ruang ujian.",
+      "Siswa-siswa diminta untuk segera memasuki ruang ujian.",
+      "Para siswa diminta untuk segera masuk ke dalam ruang ujian semuanya."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Kemampuan berpikir kritis menjadi salah satu keterampilan yang dibutuhkan pada abad ke-21. Melalui kemampuan tersebut, seseorang dapat menganalisis informasi secara objektif sebelum mengambil keputusan. Oleh sebab itu, pembelajaran di sekolah tidak hanya berfokus pada penguasaan materi, tetapi juga pada pengembangan kemampuan berpikir.   Simpulan paragraf tersebut adalah ....",
+    "options": [
+      "Sekolah harus mengurangi jumlah mata pelajaran.",
+      "Penguasaan materi lebih penting daripada kemampuan berpikir.",
+      "Pembelajaran perlu mengembangkan kemampuan berpikir kritis selain penguasaan materi.",
+      "Kemampuan berpikir kritis hanya diperlukan di lingkungan sekolah."
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Penggunaan media sosial telah mengubah cara masyarakat memperoleh informasi. Berita dapat menyebar dalam hitungan detik tanpa melalui proses penyuntingan yang ketat. Akibatnya, informasi yang belum tentu benar sering kali diterima dan disebarluaskan oleh masyarakat tanpa proses verifikasi.   Makna tersirat paragraf tersebut adalah ....",
+    "options": [
+      "Media sosial harus dihapuskan.",
+      "Masyarakat perlu bersikap kritis terhadap informasi yang diterima.",
+      "Semua berita di media sosial merupakan berita bohong.",
+      "Informasi dari media sosial lebih cepat daripada media massa."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Sampah plastik membutuhkan waktu ratusan tahun untuk terurai secara alami. Oleh karena itu, penggunaan plastik sekali pakai perlu dikurangi melalui perubahan kebiasaan masyarakat.    Ide pokok paragraf tersebut adalah ....",
+    "options": [
+      "Plastik mudah didaur ulang.",
+      "Sampah plastik sulit terurai sehingga penggunaannya perlu dikurangi.",
+      "Semua sampah dapat didaur ulang.",
+      "Masyarakat tidak boleh menggunakan plastik."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Pemerintah terus mendorong penggunaan energi baru dan terbarukan. Langkah tersebut dilakukan untuk mengurangi ketergantungan terhadap bahan bakar fosil yang jumlahnya semakin terbatas.    Simpulan yang tepat adalah ....",
+    "options": [
+      "Bahan bakar fosil akan segera habis.",
+      "Energi baru dan terbarukan dikembangkan untuk mengurangi ketergantungan pada energi fosil.",
+      "Semua energi fosil harus dihentikan penggunaannya.",
+      "Pemerintah melarang penggunaan bahan bakar minyak."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Membaca buku secara rutin dapat memperluas wawasan seseorang. Selain memperoleh informasi baru, kegiatan membaca juga dapat meningkatkan kemampuan berpikir kritis dan memperkaya kosakata.    Manfaat membaca yang tidak disebutkan dalam paragraf adalah ....",
+    "options": [
+      "Menambah wawasan.",
+      "Memperkaya kosakata.",
+      "Meningkatkan kemampuan berpikir kritis.",
+      "Meningkatkan kemampuan berbicara di depan umum."
     ],
     "answer": 3,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Sebagai salah satu syarat pengangkatan pendeta GPM adalah telah menyelesaikan Pendidikan teologi S1 pada perguruan tinggi teologi yang terhimpun dalam Persetia yang seazas didukung atau diakui GPM. Dibawah ini adalah Pendidikan tinggi teologi yang bukan seazas dan didukung atau diakui  GPM,  kecuali :",
+    "question": "Penyebab utama meningkatnya suhu bumi adalah bertambahnya konsentrasi gas rumah kaca di atmosfer.   Informasi yang sesuai dengan kalimat tersebut adalah ...",
     "options": [
-      "IAKN",
-      "UKIM",
-      "UKSW",
-      "UKDW"
+      "Suhu bumi meningkat karena aktivitas gunung berapi.",
+      "Gas rumah kaca menjadi salah satu penyebab meningkatnya suhu bumi.",
+      "Atmosfer menyebabkan seluruh perubahan iklim.",
+      "Suhu bumi tidak dipengaruhi oleh aktivitas manusia."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Kemajuan teknologi digital telah mengubah pola belajar masyarakat. Berbagai sumber belajar kini dapat diakses secara daring kapan saja dan di mana saja. Namun, kemudahan tersebut tidak selalu diikuti dengan kemampuan masyarakat dalam memilih sumber informasi yang kredibel.   Permasalahan utama yang dibahas dalam paragraf tersebut adalah ....",
+    "options": [
+      "Masyarakat sulit mengakses internet.",
+      "Semua informasi di internet dapat dipercaya.",
+      "Kemudahan akses informasi belum diimbangi kemampuan memilih sumber yang tepercaya.",
+      "Teknologi digital menyebabkan minat belajar menurun."
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Kalimat berikut yang paling efektif adalah ....",
+    "options": [
+      "Para mahasiswa-mahasiswa diminta segera mengumpulkan tugas.",
+      "Para mahasiswa diminta segera mengumpulkan tugas.",
+      "Mahasiswa-mahasiswa diminta agar supaya mengumpulkan tugas.",
+      "Para mahasiswa diminta untuk segera mengumpulkan tugasnya masing-masing semuanya."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Hutan mangrove memiliki fungsi penting dalam menjaga keseimbangan ekosistem pesisir. Akar mangrove mampu menahan abrasi pantai sekaligus menjadi habitat berbagai jenis ikan, udang, dan kepiting.     Simpulan paragraf tersebut adalah ....",
+    "options": [
+      "Hutan mangrove hanya bermanfaat bagi nelayan.",
+      "Hutan mangrove berperan penting menjaga ekosistem pesisir.",
+      "Abrasi pantai hanya terjadi di daerah tanpa mangrove.",
+      "Semua ikan hidup di hutan mangrove."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Pemerintah meningkatkan kualitas pelayanan publik ____ masyarakat memperoleh layanan yang lebih baik.    Kata penghubung yang tepat adalah ....",
+    "options": [
+      "sehingga",
+      "agar",
+      "sedangkan",
+      "tetapi"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Berolahraga secara teratur tidak hanya meningkatkan kebugaran tubuh, tetapi juga membantu menjaga kesehatan mental. Aktivitas fisik dapat merangsang produksi hormon endorfin yang berkaitan dengan perasaan bahagia.   Ide pokok paragraf tersebut adalah ....",
+    "options": [
+      "Endorfin hanya diproduksi saat berolahraga.",
+      "Olahraga memberikan manfaat bagi kesehatan fisik dan mental.",
+      "Kebugaran tubuh lebih penting daripada kesehatan mental.",
+      "Semua orang harus berolahraga setiap hari."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Meskipun menghadapi berbagai kendala, tim peneliti berhasil menyelesaikan penelitian tepat waktu.   Makna kata kendala adalah ....",
+    "options": [
+      "Kesempatan",
+      "Hambatan",
+      "Keuntungan",
+      "Tanggung jawab"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Penggunaan kendaraan pribadi yang terus meningkat menyebabkan kemacetan di berbagai kota besar. Oleh karena itu, pemerintah terus mengembangkan transportasi umum yang lebih nyaman dan terjangkau.    Hubungan antarkalimat pada paragraf tersebut adalah ....",
+    "options": [
+      "Perbandingan",
+      "sebab akibat",
+      "penegasan",
+      "pengandaian"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Kalimat yang menggunakan tanda baca dengan tepat adalah ....",
+    "options": [
+      "\"Saya siap,\" kata Andi.",
+      "\"Saya siap\". kata Andi.",
+      "Saya siap\", kata Andi.",
+      "\"Saya siap\"; kata Andi."
     ],
     "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Di Bawah ini adalah Perangkat Kepengurusan di tingkat Jemaat, kecuali…..",
+    "question": "Membiasakan membaca sejak usia dini dapat meningkatkan kemampuan berbahasa, memperluas wawasan, dan melatih daya imajinasi anak. Kebiasaan tersebut juga membantu anak memiliki kemampuan berpikir yang lebih baik ketika dewasa.     Pernyataan yang paling sesuai dengan isi paragraf adalah ....",
     "options": [
-      "Persidangan jemaat",
-      "majelis jemaat",
-      "sektor",
-      "MPH sinode"
+      "Membaca hanya bermanfaat bagi anak usia sekolah.",
+      "Membaca sejak dini memberikan berbagai manfaat bagi perkembangan anak.",
+      "Wawasan seseorang hanya diperoleh melalui membaca.",
+      "Imajinasi anak berkembang tanpa dipengaruhi kebiasaan membaca."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Indonesia merupakan negara kepulauan yang memiliki potensi sumber daya laut sangat besar. Potensi tersebut dapat dimanfaatkan untuk meningkatkan kesejahteraan masyarakat apabila dikelola secara berkelanjutan dan bertanggung jawab.   Pesan yang ingin disampaikan penulis adalah ....",
+    "options": [
+      "Laut Indonesia tidak boleh dimanfaatkan.",
+      "Sumber daya laut harus dimanfaatkan secara berkelanjutan agar memberikan manfaat bagi masyarakat.",
+      "Potensi laut Indonesia tidak dapat dimanfaatkan.",
+      "Seluruh masyarakat harus bekerja sebagai nelayan."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Perkembangan kecerdasan buatan (artificial intelligence) telah membantu berbagai sektor pekerjaan menjadi lebih efisien. Namun, di sisi lain, teknologi tersebut juga menuntut tenaga kerja untuk terus meningkatkan keterampilan agar tetap mampu bersaing.     Simpulan paragraf tersebut adalah ....",
+    "options": [
+      "Kecerdasan buatan harus dilarang penggunaannya.",
+      "Perkembangan AI memberikan peluang sekaligus tantangan bagi tenaga kerja.",
+      "Semua pekerjaan akan digantikan oleh AI.",
+      "AI hanya digunakan di bidang industri."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Kalimat yang paling efektif adalah ....",
+    "options": [
+      "Para guru-guru menghadiri rapat sekolah.",
+      "Seluruh guru menghadiri rapat sekolah.",
+      "Seluruh para guru menghadiri rapat sekolah.",
+      "Guru-guru semuanya menghadiri rapat sekolah."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Makna kata objektif adalah ....",
+    "options": [
+      "Dipengaruhi oleh perasaan pribadi.",
+      "Berdasarkan fakta dan kenyataan.",
+      "Sulit dipahami.",
+      "Tidak memiliki tujuan."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Kalimat yang menggunakan kata baku adalah ....",
+    "options": [
+      "Resiko kecelakaan meningkat saat hujan.",
+      "Ijin tersebut sudah diterbitkan.",
+      "Aktivitas belajar berlangsung dengan baik.",
+      "Apotik itu buka selama 24 jam."
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Kalimat yang menggunakan tanda baca dengan benar adalah ....",
+    "options": [
+      "Ayah berkata, \"Belajarlah dengan sungguh-sungguh.\"",
+      "Ayah berkata \"Belajarlah dengan sungguh-sungguh\".",
+      "Ayah berkata: \"Belajarlah dengan sungguh-sungguh\".",
+      "Ayah berkata; \"Belajarlah dengan sungguh-sungguh.\""
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Ide pokok paragraf umumnya terdapat pada ....",
+    "options": [
+      "Seluruh kalimat.",
+      "Kalimat utama.",
+      "Kalimat penjelas.",
+      "Kalimat penutup."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Pemerintah memperluas ruang terbuka hijau agar kualitas udara semakin baik.    Tujuan tindakan pemerintah adalah ....",
+    "options": [
+      "Memperluas wilayah perkotaan.",
+      "Meningkatkan kualitas udara.",
+      "Menambah jumlah kendaraan.",
+      "Mengurangi jumlah penduduk."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Kalimat yang mengandung hubungan pertentangan adalah ....",
+    "options": [
+      "Ia belajar sehingga memperoleh nilai tinggi.",
+      "Walaupun sakit, ia tetap masuk sekolah.",
+      "Ia membaca buku lalu mengerjakan tugas.",
+      "Ia membeli buku dan alat tulis."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Antonim kata optimis adalah ....",
+    "options": [
+      "Semangat",
+      "Yakin",
+      "Pesimis",
+      "Berani"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Hasil dari 3x + 5=20 adalah ....",
+    "options": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "nilai dari 2⁵ adalah",
+    "options": [
+      16,
+      24,
+      32,
+      64
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Jika f(x)=2x+3, maka nilai f(5) adalah ....",
+    "options": [
+      10,
+      11,
+      12,
+      13
     ],
     "answer": 3,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Perangkat kepengurusan majelis jemaat terdiri dari, kecuali….",
+    "question": "Suku ke-6 dari barisan     2, 5, 8, 11, ...",
     "options": [
-      "PHMJ",
-      "seksi seksi pelayanan",
-      "badan badan lain",
-      "pengurus unit"
+      14,
+      15,
+      16,
+      17
     ],
     "answer": 3,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Tanda dan meterai yang dapat dilihat dan dialami secara inderawi berdasarkan keselamatan Allah di dalam dan melalui kematian dan kebangkitan Kristus, adalah….",
+    "question": "Luas lingkaran berjari-jari 7 cm adalah ....",
     "options": [
-      "Sakramen",
-      "iman",
-      "peneguhan",
-      "pengakuan iman"
+      "154 cm²",
+      "144 cm²",
+      "124 cm²",
+      "98 cm²"
     ],
     "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Tata kebaktian penahbisan pendeta termasuk dalam jenis…",
+    "question": "jika 3x−4=11 maka nilai x adalah?",
     "options": [
-      "Tata kebaktian ordinasi",
-      "tata kebaktian etnis",
-      "tata gereja",
-      "tata kebaktian peneguhan sidi"
+      3,
+      4,
+      5,
+      6
     ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
+    "answer": 2,
+    "explanation": ""
   },
   {
-    "question": "Syarat-syarat menjadi suatu jemaat adalah….",
+    "question": "Median dari data 4, 5, 7, 8, 9",
     "options": [
-      "Mampu melakukan amanat pelayanan secara utuh",
-      "mempunyai anggota sidi minimal 50 orang dan anggota baptis minimal 100 orang",
-      "memiliki masyarakat sebanyak mungkin",
-      "a dan b benar"
+      5,
+      6,
+      7,
+      8
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Jika sebuah persegi memiliki sisi 9 cm, maka kelilingnya adalah ....",
+    "options": [
+      "18 cm",
+      "27 cm",
+      "36 cm",
+      "81 cm"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "hasil dari (2x)(5x)",
+    "options": [
+      "7x²",
+      "10x",
+      "10x²",
+      "12x²"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Nilai rata-rata data   6, 8, 10, 12",
+    "options": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Jika log 100 = ....",
+    "options": [
+      1,
+      2,
+      10,
+      100
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "nilai dari (-3)²  adalah",
+    "options": [
+      -9,
+      6,
+      9,
+      -6
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "hasil dari 25% x 200",
+    "options": [
+      25,
+      40,
+      50,
+      75
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Persamaan garis dengan gradien 2 melalui titik (0,3) adalah ....",
+    "options": [
+      "y = x + 3",
+      "y = 2x + 3",
+      "y = 3x + 2",
+      "y = 2x − 3"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Jumlah sudut dalam segitiga adalah ....",
+    "options": [
+      "90°",
+      "180°",
+      "270°",
+      "360°"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Jika harga sebuah buku Rp40.000 mendapat diskon 20%, maka harga setelah diskon adalah ....",
+    "options": [
+      28000,
+      30000,
+      32000,
+      36000
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "hasil dari 4x+7=31 adalah",
+    "options": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Jika f(x)=3x−2f(x)=3x-2f(x)=3x−2, maka nilai f(6) adalah ....",
+    "options": [
+      14,
+      15,
+      16,
+      18
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Suku ke-8 dari barisan    5, 8, 11, 14, ...",
+    "options": [
+      23,
+      24,
+      25,
+      26
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Keliling lingkaran berjari-jari 14 cm adalah ....",
+    "options": [
+      "44CM",
+      "66CM",
+      "88CM",
+      "96CM"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Rata-rata dari data   10, 12, 14, 16, 18",
+    "options": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Jika panjang persegi panjang 12 cm dan lebarnya 8 cm, maka luasnya adalah ....",
+    "options": [
+      "80 cm²",
+      "88 cm²",
+      "96 cm²",
+      "100 cm²"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Nilai dari (-5)²",
+    "options": [
+      -25,
+      10,
+      20,
+      25
     ],
     "answer": 3,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Ada berapa seksi pelayanan GPM tingkat jemaat adalah",
+    "question": "40%x150 =...",
     "options": [
-      "4 seksi",
-      "20 seksi",
-      "30 seksi",
-      "5 seksi"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Sesuai Bab XII Pasal 39 tentang pengangkatan pendeta yang baru thabis, MPH Sinode membuat surat pengangkatan. Jika pegawai tersebut bergelar S2, maka pegawai tersebut  diangkat dengan gol  III/a, dan akan dilakukan penyesuaian ijazah selama?",
-    "options": [
-      "5 TAHUN",
-      "6 TAHUN",
-      "2 TAHUN",
-      "1 TAHUN"
+      40,
+      50,
+      60,
+      7.5
     ],
     "answer": 2,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Apa warna Stola pada minggu Adventus ke-V dan minggu sengsara ke-III",
+    "question": "Persamaan garis yang melalui titik (0,5) dan memiliki gradien 3 adalah ....",
     "options": [
-      "Merah Muda",
-      "Putih",
-      "Ungu",
-      "Hijau"
+      "y=3x+5",
+      "y = 5x + 3",
+      "y = 3x − 5",
+      "y = x + 5"
     ],
     "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "GPM berkomitmen untuk bersama-sama pemerintah, semua agama, denominasi gereja dan unsur-unsur lainnya dalam masyarakat dan bangsa Indonesia mengusahakan hal-hal di bawah ini kecuali:",
+    "question": "Jumlah sudut dalam segi lima adalah ....",
     "options": [
-      "terwujudnya keesaan gereja di kepulauan maluku, indonesia, dan dunia",
-      "terwujudnya masyarakat modern",
-      "pembebasan dari kemiskinan, kebodohan, keterbelakangan",
-      "perdamaian dalam masyarakat dan bangsa indonesia dan perdamaian dunia"
-    ],
-    "answer": 1,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Berikut ini adalah perbedaan antara Penatua dan Diaken, kecuali:",
-    "options": [
-      "penatua lebih berfungsi dalam pelayanan firman dan pelayanan pastoral",
-      "dipilih anggota jemaat",
-      "memiliki masa jabatan yang sama",
-      "berstatus sebagai perangkat pelayan"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Siapa saja yang merupakan pelayan khusus ?",
-    "options": [
-      "pendeta, penatua, diaken",
-      "tuagama",
-      "koordinator unit",
-      "bendahara sektor"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Salah satu tugas dan tanggung jawab seorang diaken,antara lain :",
-    "options": [
-      "Bersama Pendeta/Penginjil dan Penatua melayani dan bertanggung jawab atas penyelenggaraan Ibadah, Pemberitaan Firman dan Pelayanan Sakramen Gereja.",
-      "Membina dan mengaruniakan berbagai karunia yang diberikan Tuhan kepada warga gereja untuk dimafaatkan secara optimal bagi pelayanan dan kesaksian gereja demi pembangunan Tubuh Kristus.",
-      "Bersama Pendeta/Penginjil dan Penatua melayani dan bertanggungjawab atas penyelenggaraan pelayanan penggembalaan (pastoralia) kepada warga gereja.",
-      "Bersama Pendeta/Penginjil dan Penatua melaksanakan Pendidikan katekisasi, pemberitaan injil, dan pelaksanaan Pendidikan agama Kristen di sekolah"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Yang tidak termasuk dalam proses menjadi penatua dan diaken antara lain:",
-    "options": [
-      "Tahap pengakhiran",
-      "tahap seleksi",
-      "tahap pemungutan suara",
-      "tahap penahbisan"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Masa jabatan penatua dan diaken adalah :",
-    "options": [
-      "2 tahun",
-      "5 tahun",
-      "7 tahun",
-      "12 tahun"
-    ],
-    "answer": 1,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Salah satu tugas dan tanggung jawab Pendeta / Penginjil secara khusus, yaitu:",
-    "options": [
-      "melaksanakan sidang jemaat",
-      "melaksanakan pastoral konseling",
-      "melakukan revisi keputusan sidang jemaat",
-      "melayani ibadah"
-    ],
-    "answer": 1,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Berapakah Jumlah tatap muka Efektif pada Pendidikan Katekisasi khusus semester Genap?",
-    "options": [
-      "22 Kali",
-      "30 kali",
-      "5 kali",
-      "10 kali"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Dalam Penyusunan PIP-RIPP GPM Dasawarsa V diperlukan sumber-sumber data, yaitu : ",
-    "options": [
-      "Data primer",
-      "Data sekunder",
-      "Data lapangan",
-      "Data Base Jemaat"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Berikut ini yang bukan merupakan ciri dari Spiritualitas Kristen:",
-    "options": [
-      "Menarik diri dari dunia agar dapat menghubungkan dirinya dengan Allah",
-      "Dpimpin oleh roh kudus",
-      "berorientasi pada pelayanan",
-      "berakar pada alkitab"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "GPM menjalankan tugas pelayanannya dengan berpolakan kehidupan Yesus Kristus sebagaimana di bawah ini, kecuali :",
-    "options": [
-      "Hamba",
-      "Imam",
-      "nabi",
-      "Manajer"
-    ],
-    "answer": 3,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Seorang pendeta / penginjil harus memiliki karakter,antara lain:",
-    "options": [
-      "rendah hati",
-      "pemarah",
-      "agresif",
-      "licik"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Apa makna warna ungu pada warna Liturgis :",
-    "options": [
-      "simbol penyiksaan",
-      "simbol ketenangan",
-      "  Symbol penyelamatan manusia oleh Kristus. Juga sering dikaitkan dengan pertobatan, dan pengampunan dosa, kedukaan dan keagungan kasih Allah.",
-      "Simbol kemerdekaan"
+      "360°",
+      "450°",
+      "540°",
+      "720°"
     ],
     "answer": 2,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Jika seorang Pegawai Organik  mengalami sakit dan membutuhkan waktu pengobatan secara intensif, maka sesuai Peraturan Pokok tentang Kepegawaian bab XVIII pasal 52, pegawai tersebut dapat memperoleh hak cuti untuk pengobatan. Waktu cuti adalah?",
+    "question": "Harga sebuah tas Rp250.000 mendapat diskon 20%         Harga setelah diskon adalah ....",
     "options": [
-      "4 Bulan",
-      "1-3 bulan",
-      "5 bulan",
-      "7 bulan"
-    ],
-    "answer": 1,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "tugas dan wewenang Sidang Jemaat sebagaimana diatur dalam Peraturan Pokok GPM tentang Jemaat Bab VIII Pasal 13,  adalah sebagai berikut, kecuali ………",
-    "options": [
-      " Membahas dan menetapkan Renstra pengembangan pelayanan jemaat sebagai penjabaran PIP-RIPP setiap 5 tahun",
-      "Mengevaluasi laporan pertanggungjawaban pelaksanaan renstra pengembangan pelayanan selama 5 tahun",
-      "Mengevaluasi dan menetapkan program-program pelayanan di jemaat sebagai penjabaran dari renstra jemaat.",
-      "memutuskan kebijakan majelis jemaat selama 1 tahun pelayanan yang dianggap relevan"
-    ],
-    "answer": 3,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Leksionan disusun, menurut …",
-    "options": [
-      "Tahun gerejawi",
-      "pendapat pemuka agama",
-      "isu isu politik",
-      "urutan kitab"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Lembaga pengambilan keputusan tertinggi di tingkat jemaat adalah….",
-    "options": [
-      "sidang klasis",
-      "sidang sinode",
-      "Persidangan jemaat",
-      "kongres AMGPM"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Sesuai dengan peraturan pokok tentang jemaat maka jumlah KK dalam unit pelayanan terdiri dari …",
-    "options": [
-      "15-25 KK",
-      "50 KK",
-      "12 KK",
-      "100KK"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Batas usia Pensiun Pegawai organik Pendeta/penginjil 58 tahun (bukan tugas khusus dosen/pengajar pada UKIM). Seorang pegawai organik GPM tidak dapat diberikan perpanjangan pensiun apabila :",
-    "options": [
-      "  Telah mencapai usia pensiun bukan termasuk MPHS, dosen/pengajar dan bersangkutan sedang dalam tindak penggembalaan khusus",
-      "bergabung dalam partai politik",
-      "sedang dalam keadaan sakit",
-      "sedang dalam masa tahanan"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Pengembangan karier pegawai organic GPM pendeta/penginjil berdasarkan kualifikasi, kompetensi dan evaluasi kinerja kepelayanan. Yang dimaksudkan dengan kompetensi adalah kecuali :",
-    "options": [
-      "Kompetensi teknis yang diukur dari tingkat spesialisasi Pendidikan",
-      "Pengalaman melayani",
-      "Kompetensi manajeral yang diukur dari tingkat Pendidikan dan pengalaman kepemimpinan",
-      "kompetensi berpolitik"
-    ],
-    "answer": 3,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Sektor Pelayanan di pimpin oleh?",
-    "options": [
-      "Bakopel",
-      "Muhabet",
-      "KMJ",
-      "MPH"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Pengurus Unit Terdiri dari kecuali?",
-    "options": [
-      "ketua",
-      "wakil ketua",
-      "sekretaris",
-      "seksi usaha dana"
-    ],
-    "answer": 3,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Buku-buku nyanyian yang digunakan dalam kebaktian-kebaktian di GPM, kecuali?",
-    "options": [
-      "uktolseya",
-      "mazmur dan tahlil",
-      "kidung jemaat",
-      "nyanian kidug baru NKB"
-    ],
-    "answer": 3,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Dalam Peraturan Pokok tentang Persekutuan pasal 9 ayat 2 disebutkan bahwa salah satu tujuan Leksionari adalah:",
-    "options": [
-      "agar dapat dimaknai sebagaimana mestinya",
-      "Agar Alkitab dibacakan sacara utuh dalam setiap kebaktian GPM",
-      "agar menjadi pedoman beragama",
-      "agar tata kebaktian GPM mempunyai pola tersendiri"
-    ],
-    "answer": 1,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Bahwa GPM memahami hubungan gereja dan negara sebagai dua lembaga dengan kewenangan masing-masing, namun mengembangkan hubungan kemitraan yang bersifat berikut ini, kecuali:",
-    "options": [
-      "saling menopang",
-      "saling mengkritik",
-      "saling mengingatkan dalam rangka membangun kemanusiaan bersama",
-      "saling menolong"
-    ],
-    "answer": 1,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Dalam Tata Gereja GPM terdapat rumusan Pengakuan Iman GPM yakni:",
-    "options": [
-      "Yesus kristus adalah penyelamat",
-      "yesus kristus adalah nabi terakhir",
-      "Yesus Kristus adalah Tuhan dan Kepala Gereja. Tuhan atas Sejarah Bangsa dan Alam Semesta dan Juruselamat Dunia.",
-      "yesus kristus adalah tuhan semesta alam"
+      180000,
+      190000,
+      200000,
+      210000
     ],
     "answer": 2,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Bagaimana memahami kematian secara kristiani?",
+    "question": "Panjang sisi kubus 6 cm.   Volume kubus adalah?",
     "options": [
-      "kematian adalah saat beralihnya manusia dari relasi hubungan persekutuan yang terbatas kepada relasi hubungan persekutuan yang penuh dengan Tuhan.",
-      "kematian merupakan hal yang harus ditakuti semua orang",
-      "kematian merupakan hal yang tidak manusiawi",
-      "kematian merupakan aib bagi manusia"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Hidup dalam masyarakat majemuk membutuhkan upaya hidup bergereja mengarah pada keadilan, perdamaian dan keutuhan ciptaan. Beberapa agenda yang penting adalah sebagai berikut, kecuali:",
-    "options": [
-      "menjauhkan dialog iman, kehidupan dialog karya",
-      "saling memahami dan menopang satu dan yang lain",
-      "memiliki keterbukaan dalam bermasyarakat maupun beragama",
-      "menerima semua perbedaan"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Di dalam ibadah Kristen Protestan, mimbar besar merupakan pusat atau yang terkenal dengan istilah ….",
-    "options": [
-      "Large",
-      "Pulpit",
-      "crown",
-      "cawan"
-    ],
-    "answer": 1,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Jenis perkunjungan yang benar seperti yang disebutkan di bawah ini, adalah…",
-    "options": [
-      "perkunjungan pastoral",
-      "perkunjungan akhir tahun",
-      "Perkunjungan rutin dan khusus",
-      "perkujungan biasa"
+      "108 cm³",
+      "180 cm³",
+      "216 cm³",
+      "256 cm³"
     ],
     "answer": 2,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Apa aspek utama dari pendekatan Appreciative Inquiry (AI) dalam penyusunan Renstra",
+    "question": "Median dari data  5, 7, 9, 10, 12, 14, 16",
     "options": [
-      "kekuatan, potensi, nilai positif",
-      "nilai negatif",
-      "pendekatan emosional",
-      "pendekatan iman kristen"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Apa itu asumsi teologi dibalik pendekatan Appreciative Inquiry (AI) dalam penyusunan Rentsra",
-    "options": [
-      "menjadikan alkitab sebagai acuan",
-      "  Menjadikan berkat dan kasih karunia Allah yang dimiliki oleh umat, pelayan dan lembaga gereja sebagai imago Dei yang menggerakan serta menghidupkan setiap orang percaya.",
-      "melakukan perintah Allah ",
-      "Mengacu pada rencana Jemaat 5 tahun kedepan"
-    ],
-    "answer": 1,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Sebutkan Pokok Bahasan pertama pada Pilar Firman dalam Buku ajar jenjang Indria 1, semesger Ganjil",
-    "options": [
-      "beta ciptaan Tuhan",
-      "pemberkatan",
-      "saya diberkati Tuhan",
-      "Urutan penciptaan"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Kegiatan belajar mengajar di SM-TPI dilaksanakan per-semester. Dengan pengaturan sebagai berikut :",
-    "options": [
-      "semester ganjil januari-april, semester genap april-juni",
-      "semester ganjil mei-oktober, semester genap november-april",
-      "semester ganjil januari- juni",
-      "semester genap desember-januari"
-    ],
-    "answer": 1,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Pengakhiran seorang pendeta / penginjil dalam pelayanannya,apabila :",
-    "options": [
-      "meninggal dunia",
-      "melakukan tindak pidana",
-      "melakukan korupsi",
-      "tidak menjalankan tugas selama 1 tahun"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Tahap ujian gerejawi merupakan percakapan gerejawi yang bertujuan untuk ?",
-    "options": [
-      "memperoleh juara 1",
-      "memperoleh kewenangan dari MPH Sinode",
-      "memperoleh iman dari Tuhan",
-      "  Memperoleh keputusan final tentang kelayakan calon menjadi pendeta."
-    ],
-    "answer": 3,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Perangkat kepengurusan di tingkat jemaat, terdiri dari …",
-    "options": [
-      "persidangan jemaat, majelis jemaat, sektor, unit",
-      "MPH Sinode",
-      "MPK ",
-      "pengurus ranting"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Berkumpul bersama untuk menghadap Tuhan, menyanyikan pujian, mendengarkan firman Allah, mengaku iman, memberi persembahan, mengucapkan doa serta menerima pengutusan dan berkat di dalam ikatan damai sejahtera sebagai satu persekutuan orang percaya Allah di dalam Yesus Kristus. Kalimat tersebut merupakan pengertian dari?",
-    "options": [
-      "Kebaktian",
-      "musyawarah",
-      "rapat",
-      "menyembah berhala"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Apa yang anda ketahui tentang penggembalaan sesuai peraturan sesuai penggembalaan GPM Penggembalaan adalah wujud pelayanan pemeliharaan Allah yang dipercayakan kepada gereja melalui Yesus Kristus dan Roh Kudus untuk menuntun umat manusia agar mengalami pertobatan dan pembaruan hidup ",
-    "options": [
-      "Pergembalaan kepada pelayan yang bermasalah",
-      "pergembalaan bagi orang kafir",
-      "Penggembalaan adalah wujud pelayanan pemeliharaan Allah yang dipercayakan kepada gereja melalui Yesus Kristus dan Roh Kudus untuk menuntun umat manusia agar mengalami pertobatan dan pembaruan hidup sesuai Firman Allah demi terciptanya kehidupan yang berdamai sejahtera dengan sesama, alam semesta serta Tuhan pencipta dan penyelamat.",
-      "pergembalaan bagi KMJ"
+      8,
+      9,
+      10,
+      12
     ],
     "answer": 2,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Menurut peraturan pergembalaan, GPM terdiri dari",
+    "question": "Choose the correct answer.   She ____ to school every day.",
     "options": [
-      "pergembalaan khusus dan umum",
-      "pergembalaan komersial",
-      "pergembalaan tahunan",
-      "pergembalaan mingguan"
+      "go",
+      "goes",
+      "going",
+      "gone"
     ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
+    "answer": 1,
+    "explanation": ""
   },
   {
-    "question": "Membangun dan mengembangkan spiritualitas anggota gereja, pelayan khusus dan pegawai organic demi terpeliharanya kesucian dan kekudusan hidup bergereja berdasarkan nilai-nilai etis menuju terciptanya gereja yang bersaksi dan melayani. Deskripsi tersebut menjelaskan tentang",
+    "question": "Choose the synonym of the underlined word.       The manager gave a brief explanation.",
     "options": [
-      "tujuan GPM",
-      "tujuan agama",
-      "tujuan pergembalaan ",
-      "tujuan berbadah"
+      "long",
+      "short",
+      "difficult",
+      "clear"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "If I ____ enough money, I would buy a new laptop.",
+    "options": [
+      "have",
+      "had",
+      "has",
+      "having"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Choose the correct passive voice.    The students clean the classroom every morning.",
+    "options": [
+      "The classroom cleaned every morning.",
+      "The classroom is cleaned every morning.",
+      "The classroom was cleaned every morning.",
+      "The classroom has cleaned every morning."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Which word is closest in meaning to purchase?",
+    "options": [
+      "sell",
+      "buy",
+      "borrow",
+      "find"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": [
+      "She don't like coffee.",
+      "She doesn't likes coffee.",
+      "She doesn't like coffee.",
+      "She not like coffee."
     ],
     "answer": 2,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Tindakan penggembalaan khusus kepada anggota gereja pada tahap awal dapat dilakukan oleh…",
+    "question": "The opposite of ancient is ....",
     "options": [
-      "sesama angggota gereja dengan prinsip Galatia 6:1",
-      "KMJ",
-      "MPH",
-      "MPK"
+      "Modern",
+      "Old",
+      "traditional",
+      "historic"
     ],
     "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Jenis penggembalaan kepada anggota jemaat dalam rangka menjaga pertumbuhan iman , adalah bagian dari tindakan?",
+    "question": "Choose the correct preposition.   The meeting starts ____ 8 a.m.",
     "options": [
-      "pergembalaan khusus",
-      "pergembalaan umum",
-      "pergembalaan tahunan",
-      "pergembalaan mingguan"
-    ],
-    "answer": 1,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Majelis pelaksana kepemimpinan pelayanan gereja pada jenjang jemaat, klasis dan sinode GPM di sebut...",
-    "options": [
-      "majelis pimpinan gereja",
-      "majelis jemaat",
-      "MPK",
-      "MPH"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Mereka yang dilahirkan, dibaptis dan mengaku iman dalam GPM serta mereka yang atas kemauan sendiri menjadi anggota GPM di sebut..",
-    "options": [
-      "Anggota GPM",
-      "anggota klasis",
-      "anggota masyarakat",
-      "anggota PGI"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Sumber daya gerejawi yang berfungsi sebagai aparat pelaksana dalam rangka menyelenggarakan tugas-tugas pelayanan gereja di setiap jenjang kepemimpinan GPM disebut…",
-    "options": [
-      "pegawai non organik",
-      "pegawai organik GPM",
-      "anggota persetia",
-      "anggota Jemaat"
-    ],
-    "answer": 1,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Kapan media center GPM dilembagakan oleh GPM?",
-    "options": [
-      "MPL Tual, 2016",
-      "MPL Ternate 2010",
-      "MPL Dobo 2013",
-      "MPL Masohi 1999"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Teknologi informasi adalah bentuk simulasi sains yang titetapkan menjadi bentuk terapan. Jika konteks 4G saat ini apakah relevan Gereja memberi ruang untuk diintervensi oleh teknologi informasi?",
-    "options": [
-      "etc",
-      "etc",
-      "etc",
-      "etc"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Saat ini GPM telah memiliki sebuah system informasi untuk mengatur manajemen internal pegawai organic GPM. Apa nama aplikasinya?",
-    "options": [
-      "MI GPM",
-      "SI GPM",
-      "MSIPT",
-      "SIAKAD UKIM"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Saat ini GPM telah menggunakan aplikasi terintegrasi untuk manajemen database jemaat dan barang antara lain..",
-    "options": [
-      "MI GPM",
-      "MSIPT GPM",
-      "SIMPEG GPM",
-      "SINDI UKIM"
-    ],
-    "answer": 1,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Dalam sistim pengelolaan keuangan GPM yang disebut sebagai Otorisator adalah:",
-    "options": [
-      "ketua sinode, ketua klasis, ketua majelis jemaat",
-      "ketua unit",
-      "ketua sektor",
-      "ketua ranting AMGPM"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Orang yang dipercayakan untuk menerima, menyimpan, mengeluarkan uang, surat-surat berharga dan barang milik gereja disebut",
-    "options": [
-      "sekeretaris",
-      "bendahara",
-      "ketua unit",
-      "KMJ"
-    ],
-    "answer": 1,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Orang yang berwenang untuk menguji tagihan, memerintahkan pembayaran dan atau penagihan sebagai akibat dari adanya Tindakan otorisator disebut…",
-    "options": [
-      "Ordonatur",
-      "donatur",
-      "otorisator",
-      "MPH"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Dana yang dialokasikan dalam anggaran pendapatan dan belanja sinode kepada klasis setiap tahun dengan mempertimbangkan kebutuhan, rentang geografis dan jumlah jemaat untuk menopang kegiatan pelayanan gereja di klasis disebut sebagai dana..",
-    "options": [
-      "dana belanja",
-      "dana operasional",
-      "dana hibah",
-      "dana jemaat"
-    ],
-    "answer": 1,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Pemeriksaan pengelolaan keuangan dan pertanggungjawaban keuangan gereja dilakukan oleh..",
-    "options": [
-      "MPH Sinode",
-      "MPK",
-      "KMJ",
-      "Tim Verifikasi"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Yang termasuk dalam belanja lain-lain adalah..",
-    "options": [
-      "biaya verifikasi",
-      "belanja atk",
-      "belanja kebutuhan KMJ",
-      "bBelanja konsumsi"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Perbendaharaan gereja meliputi segala harta milik (aset) Gereja yang terdiri dari..",
-    "options": [
-      "surat berharga, barang yang bergerak dan tidak bergerak",
-      "anggota jemaat",
-      "majelis jemaat",
-      "tuagama"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Metode perhitungan yang didasarkan pada semua penerimaan dan pengeluaran yang dilakukan dalam satu tahun Anggaran merupakan pendapatan dan belanjapada tahun anggaran itu disebut sebagai metode..",
-    "options": [
-      "bonus",
-      "etc",
-      "etc",
-      "etc"
-    ],
-    "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Salah satu tujuan penyusunan PIP-RIPP GPM adalah ....",
-    "options": [
-      "menentukan aturan pemerintah daerah",
-      "mengarahkan penyelenggaraan pelayanan gereja",
-      "menetapkan kurikulum pendidikan nasional",
-      "mengatur sistem perdagangan masyarakat"
-    ],
-    "answer": 1,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "PIP-RIPP GPM menjadi pijakan dalam penyusunan ....",
-    "options": [
-      "rencana pembangunan nasional",
-      "Rencana Pengembangan Pelayanan Jemaat (RPPJ), Rencana Pengembangan Pelayanan Klasis (RPPK), dan Rencana Pengembangan Pelayanan Sinode (RPPS)",
-      "Program kerja pemerintah daerah",
-      "Rencana pembangunan desa"
-    ],
-    "answer": 1,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": ". Kerangka operasional yang diberikan oleh PIP-RIPP GPM bertujuan untuk ....",
-    "options": [
-      "Meningkatkan pendapatan gereja",
-      "Membentuk organisasi baru",
-      "Mewujudkan visi dan misi pelayanan GPM menuju 1 Abad Tahun 2025–2035",
-      "Menghapus struktur pelayanan gereja"
+      "in",
+      "on",
+      "at",
+      "by"
     ],
     "answer": 2,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "RPPJ merupakan singkatan dari ....",
+    "question": "Complete the sentence.   My brother is ____ than I am.",
     "options": [
-      "Rencana Pengembangan Pelayanan Jemaat",
-      "Rencana Pembangunan Pelayanan Jemaat",
-      "Rencana Program Pelayanan Jemaat",
-      "Rencana Pelaksanaan Pelayanan Jemaat"
+      "tall",
+      "tallest",
+      "taller",
+      "more tall"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Choose the correct answer.    They ____ dinner when I arrived.",
+    "options": [
+      "have",
+      "had",
+      "were having",
+      "are having"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Recycling helps reduce waste and protects the environment. By recycling paper, plastic, and glass, people can save natural resources and reduce pollution.   The main idea of the paragraph is ....",
+    "options": [
+      "Pollution is increasing.",
+      "Recycling has many environmental benefits.",
+      "Plastic is difficult to recycle.",
+      "Paper is the best material."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Choose the correct conjunction.    I stayed at home ____ it was raining.",
+    "options": [
+      "because",
+      "although",
+      "unless",
+      "however"
     ],
     "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Tujuan utama PIP-RIPP GPM sebagai pijakan penyusunan RPPJ, RPPK, dan RPPS adalah untuk ....",
+    "question": "Which sentence is grammatically correct?",
     "options": [
-      "Menyeragamkan semua kegiatan gereja",
-      "Menjadi dasar perencanaan pengembangan pelayanan di berbagai tingkat organisasi GPM",
-      "Membatasi pelayanan jemaat",
-      "Menggantikan visi dan misi GPM"
+      "He have finished his homework.",
+      "He has finished his homework.",
+      "He finished has his homework.",
+      "He has finish his homework."
     ],
     "answer": 1,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Tema utama PIP-RIPP GPM Dasawarsa V tahun 2025–2035 adalah ....",
+    "question": "He has finish his homework.",
     "options": [
-      "Pelayanan tradisional berbasis budaya",
-      "Pelayanan berkualitas di era teknologi digital",
-      "Pembangunan ekonomi nasional",
-      "Pengembangan organisasi politik"
+      "slow",
+      "fast",
+      "weak",
+      "quiet"
     ],
     "answer": 1,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "GPM memandang era digital sebagai ....",
+    "question": "Choose the correct question.",
     "options": [
-      "Ancaman yang harus dihindari",
-      "Alat hiburan semata",
-      "Ruang ziarah iman baru dan sarana pelayanan",
-      "Pengganti kehidupan nyata"
+      "Where you live?",
+      "Where does you live?",
+      "Where do you live?",
+      "Where are you live?"
     ],
     "answer": 2,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Fokus utama pelayanan GPM pada Tahap I tahun 2026–2030 adalah ....",
+    "question": "Many students prefer online learning because it allows them to study at their own pace. However, some students still prefer face-to-face classes because they can interact directly with teachers.      What is the purpose of the text?",
     "options": [
-      "Pendidikan tinggi",
-      "Pembinaan keluarga",
-      "Pengembangan industri",
-      "Politik gereja"
-    ],
-    "answer": 1,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Tahun Implementasi 2026 menekankan pentingnya ....",
-    "options": [
-      "Kekayaan jemaat",
-      "ketekunan pelayan",
-      "kompetisi antar jemaat",
-      "pembangunan gedung gereja"
-    ],
-    "answer": 1,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Pelayan GPM pada tahun 2026 diajak menjadi ....",
-    "options": [
-      "pemimpin politik digital",
-      "pengusaha digital",
-      "gembala digital yang menghadirkan kasih Allah",
-      "ahli teknologi informasi"
-    ],
-    "answer": 2,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Tema Implementasi tahun 2027 adalah ....",
-    "options": [
-      "kemandirian ekonomi",
-      "generasi cerdas",
-      "keluarga sebagai rumah kasih",
-      "shalom bagi dunia"
-    ],
-    "answer": 2,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Gerakan Keluarga Menanam, Melaut, Beternak, dan Memasarkan (GKBM) menjadi fokus utama pada tahun ....",
-    "options": [
-      "2026",
-      "2027",
-      "2028",
-      "2030"
-    ],
-    "answer": 2,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Tahun 2029 menjadi momentum penting bagi GPM untuk meneguhkan panggilannya dalam ",
-    "options": [
-      "pendidikan dan pembentukan generasi muda",
-      "pengembangan industri digital",
-      "pembangunan infrastruktur",
-      "kegiatan politik masyarakat"
+      "To compare two learning methods.",
+      "To describe a school.",
+      "To explain a science experiment.",
+      "To tell a personal experience."
     ],
     "answer": 0,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Menurut GPM, kecerdasan sejati bukan hanya menguasai teknologi, tetapi juga ....",
+    "question": "The doctor advised him ____ more vegetables.",
     "options": [
-      "memiliki kekayaan yang banyak",
-      "memadukan pengetahuan dengan hikmat Allah",
-      "menguasai bahasa asing",
-      "menjadi terkenal di media sosial"
+      "eat",
+      "eats",
+      "to eat",
+      "eating"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Neither Rina nor her brothers ____ at home.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "has"
     ],
     "answer": 1,
-    "explanation": "Pembahasan belum tersedia."
+    "explanation": ""
   },
   {
-    "question": "Tahun Implementasi 2030 mengangkat tema ....",
+    "question": "What is the antonym of expand?",
     "options": [
-      "keluarga sebagai rumah kasih",
-      "ketekunan pelayan",
-      "kemandirian ekonomi",
-      "shalom sebagai wujud kesejahteraan keluarga"
+      "Increase",
+      "develop",
+      "reduce",
+      "improve"
     ],
-    "answer": 3,
-    "explanation": "Pembahasan belum tersedia."
+    "answer": 2,
+    "explanation": ""
   },
   {
-    "question": "Pengakuan Iman Rasuli dalam liturgi berfungsi sebagai ...",
+    "question": "Reading books regularly can improve vocabulary, develop critical thinking, and increase knowledge. Therefore, many educators encourage students to read every day.    According to the text, why do educators encourage students to read?",
     "options": [
-      "tata tertib ibadah",
-      "pernyataan iman bersama gereja",
-      "pengumuman gereja",
-      "bentuk persembahan"
+      "To improve their reading speed only.",
+      "To help them become professional writers.",
+      "To improve vocabulary and critical thinking.",
+      "To reduce homework."
     ],
-    "answer": 1,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Visi pelayanan GPM dalam PIP-RIPP berorientasi pada ...",
-    "options": [
-      "pertumbuhan organisasi semata",
-      "terwujudnya tanda tanda kerajaan Allah di dunia",
-      "penguatan ekonomi gereja semata",
-      "pembangunan gedung gereja"
-    ],
-    "answer": 1,
-    "explanation": "Pembahasan belum tersedia."
-  },
-  {
-    "question": "Salah satu prinsip pelaksanaan PIP-RIPP adalah ...",
-    "options": [
-      "sentralistik dan tertutup",
-      "partisipatif dan kontekstual",
-      "individual dan mandiri",
-      "formal dan seremonial"
-    ],
-    "answer": 1,
-    "explanation": "Pembahasan belum tersedia."
+    "answer": 2,
+    "explanation": ""
   }
 ];
